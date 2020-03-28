@@ -142,9 +142,10 @@ routes.post('/animais', (request, response) => {
 npm install -g expo-cli
 
 BACKEND: node.js
-FRONTEND: react (nao tenho certeza)
+FRONTEND: reactJs (nao tenho certeza)
 MOBILE: react native
 
+L E M B R A R   D E   V E R I F I C A R   O   I P   D O   P C
 
 === == == == == == == == == == == === MOBILE === == == == == == == == == == == ===
 
