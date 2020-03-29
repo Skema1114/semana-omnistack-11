@@ -132,10 +132,24 @@ routes.post('/animais', (request, response) => {
        evento: 'Semana Oministack 11.0',
        aluno: 'Rafael Martins',
        codigo: 'Hello World'
-   });
+   }); 
 });
 * 
 */
+
+// conteudos do ultimo video
+
+npm install celebrate
+
+npm install jest
+
+npx jest --init [-D, testar usar o -D no final] (yes, node, no, yes)
+
+npm test
+
+npm install cross-env
+
+npm install supertest -D (-D para dependencioa de desenvolvimento)
 
 === == == == == == == == == == == === FORA === == == == == == == == == == == ===
 //instalar global para criar o mobile
@@ -162,5 +176,12 @@ expo install expo-mail-composer
 npm install intl
 
 
+=== == == == == == == == == == == === ESTUDOS === == == == == == == == == == == ===
 
+Padrões de código: ESLint, Prettier;
 
+Autenticação JWT;
+
+Styled Components;
+
+** Fazer uma pub com gif do que eu fiz e publicar no Linkedin
